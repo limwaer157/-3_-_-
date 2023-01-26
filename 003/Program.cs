@@ -26,6 +26,7 @@ void FillArray(int[] collection)
     }
 }
 
+
 void PrintArray(int[] col)
 
 {
@@ -61,4 +62,5 @@ PrintArray(array);
 Console.WriteLine();
 
 int pos = indexOf(array,  4);
+
 Console.WriteLine(pos);
